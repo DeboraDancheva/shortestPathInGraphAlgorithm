@@ -1,0 +1,11 @@
+C:\Users\debor\source\repos\shortestPathInGraphAlgorithm\shortestPathInGraphAlgorithm\bin\Debug\shortestPathInGraphAlgorithm.exe.config
+C:\Users\debor\source\repos\shortestPathInGraphAlgorithm\shortestPathInGraphAlgorithm\bin\Debug\shortestPathInGraphAlgorithm.exe
+C:\Users\debor\source\repos\shortestPathInGraphAlgorithm\shortestPathInGraphAlgorithm\bin\Debug\shortestPathInGraphAlgorithm.pdb
+C:\Users\debor\source\repos\shortestPathInGraphAlgorithm\shortestPathInGraphAlgorithm\obj\Debug\shortestPathInGraphAlgorithm.csprojAssemblyReference.cache
+C:\Users\debor\source\repos\shortestPathInGraphAlgorithm\shortestPathInGraphAlgorithm\obj\Debug\shortestPathInGraphAlgorithm.Properties.Resources.resources
+C:\Users\debor\source\repos\shortestPathInGraphAlgorithm\shortestPathInGraphAlgorithm\obj\Debug\shortestPathInGraphAlgorithm.csproj.GenerateResource.cache
+C:\Users\debor\source\repos\shortestPathInGraphAlgorithm\shortestPathInGraphAlgorithm\obj\Debug\shortestPathInGraphAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\debor\source\repos\shortestPathInGraphAlgorithm\shortestPathInGraphAlgorithm\obj\Debug\shortestPathInGraphAlgorithm.exe
+C:\Users\debor\source\repos\shortestPathInGraphAlgorithm\shortestPathInGraphAlgorithm\obj\Debug\shortestPathInGraphAlgorithm.pdb
+C:\Users\debor\source\repos\shortestPathInGraphAlgorithm\shortestPathInGraphAlgorithm\obj\Debug\shortestPathInGraphAlgorithm.MainForm.resources
+C:\Users\debor\source\repos\shortestPathInGraphAlgorithm\shortestPathInGraphAlgorithm\obj\Debug\shortestPathInGraphAlgorithm.ArcWeightInputForm.resources
